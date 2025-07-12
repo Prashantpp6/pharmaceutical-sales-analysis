@@ -1,8 +1,9 @@
 [![Open In Power BI](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTQ1YjJiODctNmJjMS00NGYwLWFjMWEtNGE5YzdkYWUyYzIwIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D)
 
-# Pharmaceutical Sales Dashboard – By Prashant Singh Parmar
+# Pharmaceutical Sales Dashboard – Power BI Project by Prashant Singh Parmar
 
-In this **Power BI project**, I analyzed the sales data of a pharmaceutical company to uncover insights about product performance, sales teams, distributor contributions, and region-wise growth using visual storytelling and data modeling.
+
+In this Power BI dashboard project, I independently analyzed and visualized sales data of a pharmaceutical company to uncover insights about product performance, sales teams, distributor contributions, and region-wise growth using visual storytelling and data modeling.
 
 
 ## Dashboard
@@ -61,7 +62,7 @@ This project is based on a pharmaceutical company that collects retail sales dat
 | Product Name      | Drug name                          |
 | Product Class     | Drug category                      |
 | Sales             | Sales revenue                      |
-| Quantity          | Number of units sold               |
+| Quantity          | Quantity of units sold             |
 | Year              | Year of sale                       |
 | Sales Rep         | Employee name                      |
 | Manager           | Reporting manager                  |
@@ -85,7 +86,8 @@ This project is based on a pharmaceutical company that collects retail sales dat
 
 ---
 
-## 🚀 How to Use
+## 🧪 How to View the Dashboard
+
 
 ### 🔎 View Online
 [![Open In Power BI](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTQ1YjJiODctNmJjMS00NGYwLWFjMWEtNGE5YzdkYWUyYzIwIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D)
@@ -94,6 +96,14 @@ This project is based on a pharmaceutical company that collects retail sales dat
 1. Download the `.pbix` file from this repo.
 2. Open in Power BI Desktop.
 3. Explore pages, filters, and visuals interactively.
+
+---
+## 🧠 Skills Applied
+- Data Cleaning & Modeling with Power Query
+- KPI and DAX Measure Calculations
+- Interactive Dashboard Design
+- Business Requirement Mapping to Visualization
+- Publishing to Power BI Service
 
 ---
 
