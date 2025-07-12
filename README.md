@@ -4,7 +4,7 @@
 
 In this **Power BI project**, I analyzed the sales data of a pharmaceutical company to uncover insights about product performance, sales teams, distributor contributions, and region-wise growth using visual storytelling and data modeling.
 
-## Dashboard
+
 ## Dashboard
 ![Pharma Sales Dashboard](https://raw.githubusercontent.com/Prashantpp6/pharmaceutical-sales-analysis/master/sale_dashboard.png)
 
